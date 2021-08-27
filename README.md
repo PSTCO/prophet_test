@@ -19,4 +19,8 @@ Prophet에서는 컬럼이 ds, y 로 되어있어야 해서
 
 ![data](https://user-images.githubusercontent.com/52062016/131105738-38bf254d-ee6a-45de-a55d-c2cba8989b5e.PNG)
 
+<사용환경>
+윈도우10
+아나콘다 4.10.1 & 주피터노트북
+prophet 1.0.1
 
